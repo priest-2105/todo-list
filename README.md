@@ -1,18 +1,18 @@
 <!-- prettier-ignore -->
 <p align="center">
-<img src="public/logo256.png" width="128px" />
+<img src="./public/logo256.png" width="128px" />
 <h1>📝React.js Todo App</h1>
 </p>
 
 ## [https://todol-ist-app.netlify.app/](https://todol-ist-app.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/todol-ist-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)]( https://app.netlify.com/sites/todol-ist-app/deploys)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/priest-2105/todo-list?color=%23b624ff)
 ![GitHub License](https://img.shields.io/github/license/priest-2105/todo-list?color=%23b624ff)
 
 <p align="center">
 
-<img src="public/screenshots/iPhone Mockup.png" width="400px" />
+<img src="./public/screenshots/iPhone Mockup.png" width="400px" />
 </p>
 
 ## ⚡ Features
@@ -34,23 +34,23 @@
 
 ## 📷 Screenshots
 
-<img src="public/screenshots/ss1.png" width="350px" />
+<img src="./public/screenshots/ss1.png" width="350px" />
 
-<img src="public/screenshots/ss2.png" width="350px" />
+<img src="./public/screenshots/ss2.png" width="350px" />
 
-<img src="public/screenshots/ss3.png" width="350px" />
+<img src="./public/screenshots/ss3.png" width="350px" />
 
-<img src="public/screenshots/ss4.png" width="350px" />
+<img src="./public/screenshots/ss4.png" width="350px" />
 
-<img src="public/screenshots/ss5.png" width="350px" />
+<img src="./public/screenshots/ss5.png" width="350px" />
 
-<img src="public/screenshots/ss6.png" width="350px" />
+<img src="./public/screenshots/ss6.png" width="350px" />
 
-<img src="public/screenshots/sspc1.png" width="650px" />
+<img src="./public/screenshots/sspc1.png" width="650px" />
 
 ## 🚀 Performance
 
-<img src="public/screenshots/performance.png" width="600px" />
+<img src="./public/screenshots/performance.png" width="600px" />
 
 ## 💻 Tech Stack
 
