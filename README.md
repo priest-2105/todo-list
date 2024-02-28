@@ -4,9 +4,9 @@
 <h1>📝React.js Todo App</h1>
 </p>
 
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
+## [https://todol-ist-app.netlify.app/](https://todol-ist-app.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/react-cool-todo-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/todol-ist-app/deploys)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/priest-2105/todo-list?color=%23b624ff)
 ![GitHub License](https://img.shields.io/github/license/priest-2105/todo-list?color=%23b624ff)
 
