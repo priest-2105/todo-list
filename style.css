@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+*{
+    box-sizing: border-box;
+}body{background-color: #f5f5f5;
+    font-family: "roboto", sans-serif;
+    margin: 0;
+}h1 {
+    color: rgb(179, 131,226);
+    font-size: 10rem;
+    text-align: center;
+    opacity: 0.4;
+}form {
+    width: 400px;
+    max-width: 100%;
+    box-shadow: 0px 4px 10px rgb(0, 0, 0, 0.1) ;
+    margin: auto;
+}.input{
+    border: none;
+    width: 100%;
+    display: block;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+}.input::placeholder{
+    color: #d5d5d5;
+
+}.todos{
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}.todos li{
+    border-top: 1px solid #efefef;
+    list-style-type: none;
+    padding:  1rem 2rem;
+    width: 100%;
+    align-items: center;
+    cursor: pointer;
+
+}.todos li.completed{
+    color: #b5b5b5;
+}
+.todos li.completed::after {
+    content: "✔";
+    color: rgb(85, 182, 85);
+    margin-left: 50%; 
+}
+.info{
+    position: fixed;
+    top: 1rem;
+    right: 2rem;
+    width: fit-content;
+    height: fit-content;
+    padding: 2rem 2rem;
+    justify-content: center;
+    background-color: #3a363696;
+}
+.info div{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    display: block;
+    flex-wrap: wrap;
+}
+.info div div{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 14px;
+}
